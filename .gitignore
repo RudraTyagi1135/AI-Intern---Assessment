@@ -14,3 +14,4 @@ env/
 *.sqlite
 *.db
 .streamlit/
+INTERVIEW_MASTER_GUIDE.md
